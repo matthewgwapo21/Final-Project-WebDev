@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+}
+button{
+    background-color: rgb(253, 253, 253);
+    color: rgb(0, 0, 0);
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+button:hover{
+    background-color: #00d9ff;
+    color: rgb(0, 0, 0);
+    padding: 10px 30px;
+    border-radius: 10px;
+    transition: 0.4s;
+    font-family: sans-serif;
+    font-weight: bold;
+}
